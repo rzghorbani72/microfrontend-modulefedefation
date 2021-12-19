@@ -1,3 +1,4 @@
+import React from 'react';
 import Products from 'products/ProductsIndex';
 
 const Index = () => {
